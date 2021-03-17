@@ -18,6 +18,10 @@
     }
 }
 
+#second{
+    display: none;
+}
+
 @media (min-width: 959px) {
     #nav {
         display: none;
